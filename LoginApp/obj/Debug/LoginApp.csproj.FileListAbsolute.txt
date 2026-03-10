@@ -1,0 +1,10 @@
+N:\HK4\CNghePM\LoginApp\bin\Debug\LoginApp.exe.config
+N:\HK4\CNghePM\LoginApp\bin\Debug\LoginApp.exe
+N:\HK4\CNghePM\LoginApp\bin\Debug\LoginApp.pdb
+N:\HK4\CNghePM\LoginApp\obj\Debug\LoginApp.csproj.AssemblyReference.cache
+N:\HK4\CNghePM\LoginApp\obj\Debug\LoginApp.Form1.resources
+N:\HK4\CNghePM\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+N:\HK4\CNghePM\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.cache
+N:\HK4\CNghePM\LoginApp\obj\Debug\LoginApp.csproj.CoreCompileInputs.cache
+N:\HK4\CNghePM\LoginApp\obj\Debug\LoginApp.exe
+N:\HK4\CNghePM\LoginApp\obj\Debug\LoginApp.pdb
